@@ -1,6 +1,3 @@
-Here's an English adaptation of the GLM-4-Voice documentation with personalized clarity:
-
----
 
 # GLM-4-Voice
 
@@ -84,6 +81,3 @@ GLM-4-Voice draws on work from:
 - [transformers](https://github.com/huggingface/transformers)
 - [GLM-4](https://github.com/THUDM/GLM-4)
 
----
-
-With this personalized walkthrough, you’re set to try GLM-4-Voice and explore how it can be customized for your own use or for professional tools like EntrakitLLC. This AI marvel honors the original creators for their innovation, making it yours to build on from here.
